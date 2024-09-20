@@ -5,3 +5,7 @@
 - 👯 I’m looking to collaborate on any frontend projects 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding with music 🎶 playing in the background
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
