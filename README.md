@@ -1,5 +1,5 @@
 ## Hi there 👋
- Im [@Charmingdc](https://github.com/Charmingdc)
+ I'm [@Charmingdc 😇](https://github.com/Charmingdc)
 - 👨‍💻 I'm a frontend web developer 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on any frontend projects 
