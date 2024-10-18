@@ -14,10 +14,6 @@
   - JQUERY 💫
   - JAVASCRIPT 🔥
   - TYPESCRIPT 🌼
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Charmingdc&show_icons=true&locale=en&layout=compact" alt="Charmingdc" /></p>
@@ -25,3 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&locale=en" alt="Charmingdc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Charmingdc&" alt="Charmingdc" /></p>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
