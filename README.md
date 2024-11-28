@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charmingdc&show_icons=true&theme=highcontrast&locale=en" alt="charmingdc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charmingdc&" alt="charmingdc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charmingdc&theme=highcontrast" alt="charmingdc" /></p>
 
