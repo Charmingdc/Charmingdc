@@ -29,9 +29,9 @@
 
 <h3 align="left"> GitHub stats: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charmingdc&show_icons=true&theme=highContrast&locale=en&layout=compact" alt="charmingdc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charmingdc&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="charmingdc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charmingdc&show_icons=true&locale=en" alt="charmingdc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charmingdc&show_icons=true&theme=highcontrast&locale=en" alt="charmingdc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charmingdc&" alt="charmingdc" /></p>
 
