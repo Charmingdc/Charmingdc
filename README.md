@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/charmingdc01" target="blank"><img src="https://img.shields.io/twitter/follow/charmingdc01?logo=twitter&style=for-the-badge" alt="charmingdc01" /></a> </p>
 
-- 🔭 I’m currently working on **MindEcho**
+- 🔭 I’m currently working on **Thryve**
 
 - 🌱 I’m currently learning **React 🌊**
 
