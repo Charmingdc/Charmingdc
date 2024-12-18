@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charmingdc</h1>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=3000&pause=800&width=435&height=60&lines=Hey+there+%F0%9F%91%8B;I'm+Charmingdc+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Charmingdc" /></a>
 <h3 align="center">A passionate web developer that brings project ideas 💡 to life 🧬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charmingdc&label=Profile%20views&color=0e75b6&style=flat" alt="charmingdc" /> </p>
