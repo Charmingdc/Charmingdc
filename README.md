@@ -1,5 +1,6 @@
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=3000&pause=800&center=true&width=435&height=60&lines=Hey+there+%F0%9F%91%8B;I'm+Charmingdc" alt="Charmingd" /></a> </div>
 
-<h3 align="center">A passionate web developer that brings project ideas 💡 to life 🧬</h3>
+<h3 align="center">A passionate web developer that brings project ideas to life </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charmingdc&label=Profile%20views&color=0e75b6&style=flat" alt="charmingdc" /> </p>
 
