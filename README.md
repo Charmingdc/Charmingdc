@@ -28,10 +28,10 @@
 ## Some Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=highContrast" width ="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=highcontrast" width ="100%" alt="GitHub Stats" />
 </p>
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmingdc&theme=radical" alt="GitHub Streak" width ="100%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmingdc&theme=highcontrast" alt="GitHub Streak" width ="100%"/>
 </p>
 <p align="center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=radical" width="100%"> </p>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=highcontrast" width="100%"> </p>
