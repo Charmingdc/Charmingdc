@@ -1,4 +1,4 @@
-<h1>Hey 👋, I’m Adebayo Muid!</h1>
+<h1>Hey 👋, I’m Adebayo Muis!</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=charmingdc&label=Profile%20views&color=0e75b6&style=flat" alt="charmingdc" /> </p>
 
 ## About me  
@@ -28,7 +28,7 @@
 ## Some Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=radical" width ="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=highContrast" width ="100%" alt="GitHub Stats" />
 </p>
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmingdc&theme=radical" alt="GitHub Streak" width ="100%"/>
