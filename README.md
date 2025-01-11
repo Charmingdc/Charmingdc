@@ -37,5 +37,5 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=highcontrast" width="100%"> </p>
  
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ScrollJs" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmingdc&repo=ScrollJs&theme=highcontrast" />
  </p>
