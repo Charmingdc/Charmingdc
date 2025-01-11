@@ -31,7 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=highcontrast" width ="100%" alt="GitHub Stats" />
 </p>
 <p>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Charmingdc&theme=highcontrast" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Charmingdc&theme=highcontrast" width = "100%" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=highcontrast" width="100%"> </p>
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ScrollJs" />
+ </p>
