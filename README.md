@@ -1,4 +1,4 @@
-<h1>Hey 👋, I’m Adebayo Muis!</h1>
+<h1>Hey 👋, I’m Charmingdc!</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=charmingdc&label=Profile%20views&color=0e75b6&style=flat" alt="charmingdc" /> </p>
 
 ## About me  
