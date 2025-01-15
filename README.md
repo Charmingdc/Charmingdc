@@ -2,9 +2,9 @@
 <p> <img src="https://komarev.com/ghpvc/?username=charmingdc&label=Profile%20views&color=0e75b6&style=flat" alt="charmingdc" /> </p>
 
 ## About me  
-💡 My passion for creating exceptional user experiences drives me to design responsive, interactive interfaces that bring websites to life with vibrant and dynamic elements. I enjoy working with CSS and strive to develop visually appealing and distinct designs.
+💡 My passion for creating exceptional user experiences drives me to design responsive, interactive interfaces that bring websites to life with vibrant and dynamic elements. I enjoy working with user interface and strive to develop visually appealing and distinct designs.
 
-💼 I specialize in frontend development, utilizing modern tools like HTML, CSS, JavaScript, TypeScript, React, and TailwindCSS. My expertise also extends to technologies like Firebase and Framer Motion.
+💼 I specialize in frontend development, utilizing modern tools like HTML5, CSS3, Tailwindcss, Jquery, JavaScript, TypeScript and React. My expertise also extends to technologies like Firebase and Framer Motion.
 
 📚 I’m always eager to learn new technologies and development techniques, and I enjoy sharing my knowledge with others. I’m committed to continuous growth, both as a developer and as an individual.
 
