@@ -32,5 +32,4 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=highcontrast" width="100%"> </p>
  
  > 𝑨𝒇𝒕𝒆𝒓 𝒂 𝒍𝒐𝒏𝒈 𝒕𝒊𝒎𝒆 𝒐𝒇 𝒑𝒓𝒂𝒄𝒕𝒊ç𝒊𝒏𝒈, 𝒐𝒖𝒓 𝒘𝒐𝒓𝒌 𝒘𝒊𝒍𝒍 𝒃𝒆𝒄𝒐𝒎𝒆 𝒏𝒂𝒕𝒖𝒓𝒂𝒍, 𝒔𝒌𝒊𝒍𝒍𝒇𝒖𝒍, 𝒔𝒘𝒊𝒇𝒕, 𝒂𝒏𝒅 𝒔𝒕𝒆𝒂𝒅𝒚.
-
- > 𝑩𝒓𝒖𝒄𝒆 𝑳𝒆𝒆 ⚡
+ > ⚡ 𝑩𝒓𝒖𝒄𝒆 𝑳𝒆𝒆 ⚡
