@@ -1,4 +1,4 @@
-<h1 align="center"> I’m Charmingdc ⚡ </h1>
+<h1 align="center"> I’m Charmingdc </h1>
 
 <h2 align="center">  About me 🥷</h2> 
 <p align="center"> 💡 My passion for creating exceptional user experiences drives me to design responsive, interactive interfaces that bring websites to life with vibrant and dynamic elements. I enjoy working with user interface and strive to develop visually appealing and distinct designs. </p>
