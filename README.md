@@ -1,9 +1,9 @@
 # I'm Charmingdc  
 
 ### 🧑‍💻 About Me  
-💡 Passionate about crafting **engaging user experiences** through **responsive and dynamic interfaces**. I enjoy working with UI and strive to create **visually appealing, intuitive designs**.  
+Passionate about crafting **engaging user experiences** through **responsive and dynamic interfaces**. I enjoy working with UI and strive to create **visually appealing, intuitive designs**.  
 
-🚀 Always learning, building, and improving—one **line of code** at a time.  
+Always learning, building, and improving—one **line of code** at a time.  
 
 ---
 
@@ -70,11 +70,11 @@
 
 ---
 
-### ✨ Quote to Live By  
+### Quote to Live By  
 > *"After a long time of practicing, our work will become natural, skillful, swift, and steady."*  
-> ⚡ **Bruce Lee** ⚡  
+> **Bruce Lee**  
 
 ---
 
-### 🔥 Fun Fact  
-💡 **Where ideas meet execution**—one bug at a time.
+### Fun Fact  
+**Where ideas meet execution**—one bug at a time.
