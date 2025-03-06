@@ -9,11 +9,9 @@
 - Open-source contributions and collaborations
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Charmingdc&theme=highcontrast" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Charmingdc&theme=highcontrast" alt="GitHub Streak" />
+</a>
 
 
 📫 Let's connect and collaborate! Feel free to reach out for project opportunities, code reviews, or just to say hi.
