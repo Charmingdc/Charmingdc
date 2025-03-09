@@ -14,6 +14,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Charmingdc&theme=highcontrast" alt="GitHub Streak" />
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&langs_count=6&layout=compact&theme=highcontrast" width="100%">
+
 
 📫 Let's connect and collaborate! Feel free to reach out for project opportunities, code reviews, or just to say hi.
 
