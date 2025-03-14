@@ -1,4 +1,4 @@
-🚀 Creative Frontend Developer | Web2/Web3 🌐
+🚀 Creative Frontend Developer | Web2/Web3
 
 👋 Welcome to my GitHub! I'm Charmingdc, a passionate frontend developer experienced in frontend web technologies, JavaScript, Typescript, Tailwindcss, ReactJs, EtherJs, Firebase..
 
