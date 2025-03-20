@@ -6,7 +6,7 @@
 - Frontend web applications 
 - Frontend Libraries and APIs 
 - Decentralized Apps (dApps) web applications 
-- Full-stack web applications with a focus on user-friendly UI/UX (Firebase as Auth and Db)
+- Full-stack web applications with a focus on user-friendly interface (Firebase as Auth and Db)
 - Open-source contributions and collaborations
 
 
