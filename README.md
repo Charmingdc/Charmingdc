@@ -2,7 +2,7 @@
 
 I'm a frontend developer who enjoys building fast, clean, and modern web experiences. I love shipping real projects, learning in public, and growing one commit at a time.
 
-- 🔧 Tech: JavaScript, TypeScript, TailwindCss, ReactJs, NextJs, Firebase, Supabase...  
+- 👨‍🔧 Tech: JavaScript, TypeScript, TailwindCss, ReactJs, NextJs, Firebase, Supabase...  
 - 🌱 Currently learning: Advanced JavaScript & backend logic  
 - 🧱 Always building and improving
 
