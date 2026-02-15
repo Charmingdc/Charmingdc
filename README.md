@@ -1,8 +1,5 @@
 # Charmingdc — Frontend Engineer
 
-A frontend engineer focused on building fast, accessible, and maintainable web applications. I ship production-ready features, value clean code, and collaborate closely with designers and backend engineers.
-
-## Contact
 [![Email](https://img.shields.io/badge/Email-charmingdc002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charmingdc002@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-adebayo--muis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebayo-muis) [![Medium](https://img.shields.io/badge/Medium-@adebayomuis-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebayomuis) [![X](https://img.shields.io/badge/X-@Charmingdc01-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Charmingdc01)
 
 ---
@@ -27,7 +24,7 @@ I build user interfaces with a focus on performance, accessibility, and develope
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
