@@ -1,13 +1,13 @@
-# Charmingdc — Frontend Developer
+# Charmingdc — Frontend Engineer
 
-A frontend developer focused on building fast, accessible, and maintainable web applications. I ship production-ready features, value clean code, and collaborate closely with designers and backend engineers.
+A frontend engineer focused on building fast, accessible, and maintainable web applications. I ship production-ready features, value clean code, and collaborate closely with designers and backend engineers.
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-charmingdc002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charmingdc002@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-adebayo--muis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebayo-muis) [![Medium](https://img.shields.io/badge/Medium-@adebayomuis-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebayomuis) [![X](https://img.shields.io/badge/X-@Charmingdc01-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Charmingdc01)
 
 ---
 
-## About
+## About Me
 I build user interfaces with a focus on performance, accessibility, and developer experience. My work combines practical front-end engineering with thoughtful UX to deliver fast, reliable products.
 
 ---
@@ -31,17 +31,11 @@ I build user interfaces with a focus on performance, accessibility, and develope
 
 ---
 
-## What I Do
-- Build responsive, accessible web interfaces
-- Create reusable component systems and design tokens
-- Optimize loading and runtime performance
-- Implement client-side data fetching and caching strategies
-- Collaborate with product and backend teams to ship features
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&layout=compact&theme=tokyonight&hide_border=true)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmingdc&theme=tokyo-night&hide_border=true)](https://github.com/Charmingdc)
 
----
-
-## Projects
-- (Add links and short descriptions for 2–3 notable projects)
 
 ---
 
@@ -49,10 +43,4 @@ I build user interfaces with a focus on performance, accessibility, and develope
 - Advanced JavaScript architectures and patterns
 - Backend logic and server-side rendering optimizations
 - System design for scalable front-end applications
-
----
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&layout=compact&theme=tokyonight&hide_border=true)
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmingdc&theme=tokyo-night&hide_border=true)](https://github.com/Charmingdc)
+- C++ Fundamentals 
