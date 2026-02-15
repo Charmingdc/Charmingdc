@@ -15,6 +15,7 @@ I'm a dedicated frontend developer with expertise in building scalable web appli
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -39,17 +40,13 @@ I'm a dedicated frontend developer with expertise in building scalable web appli
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Contribution Activity
 
 ![Charmingdc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charmingdc&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Charmingdc&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charmingdc&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🟩 Contribution Activity
 
 [![Charmingdc's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmingdc&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
