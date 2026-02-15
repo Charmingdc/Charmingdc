@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I build user interfaces with a focus on performance, accessibility, and developer experience. My work combines practical front-end engineering with thoughtful UX to deliver fast, reliable products.
+I’m a frontend engineer and Mechatronics student who delivers production-ready React + TypeScript UIs focused on speed, accessibility, and long-term maintainability. I build component-driven systems that reduce bugs and accelerate delivery, apply performance-first techniques (code-splitting, lazy loading, image/font optimization) to improve real-user experience, and enforce quality with unit tests so releases are predictable. I turn product goals into measurable improvements—faster loads, fewer regressions, and stronger UX while documenting and mentoring to make teams and products move faster.
 
 ---
 
